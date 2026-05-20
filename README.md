@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi, I'm Olivia
 
-<!--
-**oliviawallenn/oliviawallenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Epidemiologist & emerging HEOR/RWE analyst** · MS Nutrition Epidemiology & Data Science, Tufts University (May 2026)
 
-Here are some ideas to get you started:
+I build reproducible analytic pipelines and extract decision-ready insights from 
+complex, multi-source real-world datasets — with a focus on aging cohorts, 
+dietary epidemiology, and evidence synthesis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently a Graduate Researcher at the **Jean Mayer USDA Human Nutrition Research 
+Center on Aging**, where I manage concurrent data workflows across epidemiological 
+studies on a cohort of 40,000+ participants.
+
+---
+
+## What I work on
+
+- **Longitudinal cohort analysis** — aging, dietary intake, and clinical outcomes (NECS, HRS)
+- **Real-world evidence & outcomes research** — observational study design, 
+  multivariable regression, survival analysis
+- **Evidence synthesis** — systematic reviews and meta-analysis across RCTs 
+  and observational studies
+- **ETL & data engineering** — harmonizing messy, multi-source clinical and 
+  dietary datasets into analysis-ready form
+- **Reproducible research** — version-controlled pipelines from raw data 
+  ingestion through stakeholder-ready output
+
+---
+
+## Tools & methods
+
+**Statistical programming:** SAS (advanced) · R · Python · SQL · Stata  
+**Methods:** Cox PH & Kaplan-Meier survival analysis · GEE · multivariable 
+regression · propensity scoring · meta-analysis · mixed-effects models  
+**Data engineering:** ETL pipeline design · multi-source harmonization · 
+missing data assessment · QC protocols  
+**Visualization & communication:** ggplot2 · Tableau · Excel · 
+translating RWE findings for clinical and executive audiences  
+
+---
+
+## Featured projects
+
+See pinned repositories below ↓
+
+| Project | Data | Methods | 
+|---|---|---|
+| NECS Study | Aging cohort | GEE, regression, ETL |
+| HRS Replication | Health & Retirement Study | Harmonization, replication |
+| BRFSS Analysis | CDC population survey | Descriptive & inferential stats |
+| Meta-Analysis | 50+ RCTs and cross-over studies | Data extraction, evidence synthesis |
+
+---
+
+## Background
+
+🎓 MS, Nutrition Epidemiology & Data Science — Tufts University (May 2026)  
+🎓 BS, Public Health (Pre-Clinical) — UNC Wilmington, Magna Cum Laude  
+📍 Boston, MA · Open to RWE, HEOR, outcomes research, and research associate roles  
+
+---
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/olivia-wallen/) · [Email](mailto:oliviawallenn@gmail.com)
+
