@@ -6,10 +6,6 @@ I build reproducible analytic pipelines and extract decision-ready insights from
 complex, multi-source real-world datasets — with a focus on aging cohorts, 
 dietary epidemiology, and evidence synthesis.
 
-Currently a Graduate Researcher at the **Jean Mayer USDA Human Nutrition Research 
-Center on Aging**, where I manage concurrent data workflows across epidemiological 
-studies on a cohort of 40,000+ participants.
-
 ---
 
 ## What I work on
